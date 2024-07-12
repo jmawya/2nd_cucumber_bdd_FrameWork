@@ -23,6 +23,6 @@ public class Macys {
             System.out.println("Tommy Shoes number is more then zero");
         }
 
-       // driver.quit();
+        driver.quit();
     }
 }
